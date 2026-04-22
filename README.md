@@ -19,6 +19,6 @@ performance across USA built using Python and Power BI.
 - Total sales of 2.33M across all categories
 
 ## Screenshots
-![Sales Overview]
-![Regional Performance]
-![Product Analysis]
+![Sales Overview](screenshot_page1_sales_overview.png)
+![Regional Performance](screenshot_page2_regional_performance.png)
+![Product Analysis](screenshot_page3_product_analysis.png)
